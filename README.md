@@ -76,7 +76,7 @@ else:
 ```
 
 ## **Batalla Naval Bonus 1**
-[Batalla Naval Sin Bonus (replit)](https://replit.com/@juanpanpanyz/PythonBatallaNavalBonus1)
+[Batalla Naval Bonus 1 (replit)](https://replit.com/@juanpanpanyz/PythonBatallaNavalBonus1)
 ```python
   import random
 from typing import List
@@ -142,7 +142,7 @@ else:
 ```
 
 ## **Batalla Naval Bonus 2**
-[Batalla Naval Sin Bonus (replit)](https://replit.com/@juanpanpanyz/PythonBatallaNavalSBonus2)
+[Batalla Naval Bonus 2 (replit)](https://replit.com/@juanpanpanyz/PythonBatallaNavalSBonus2)
 ```python
 
 ```
