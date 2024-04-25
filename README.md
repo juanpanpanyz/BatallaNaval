@@ -10,11 +10,11 @@
 
 [Link a Github](https://github.com/juanpanpanyz/BatallaNaval)
 
-[Guia](https://github.com/IgnacioPardo/Tecnologias_Exponenciales_2024/tree/main/Ejercicios#ejercicio-1](url))
+[Guia](https://github.com/IgnacioPardo/Tecnologias_Exponenciales_2024/blob/main/Trabajo_Practico_Batalla_Naval.md(url))
 
 <br>
 
-## **Batalla Naval**
+## **Batalla Naval Sin Bonus**
 [Batalla Naval Sin Bonus (replit)](https://replit.com/@juanpanpanyz/PythonBatallaNavalSinBonus)
 ```python
 import random
@@ -72,5 +72,11 @@ for _ in range(nDisparos):
         break
 else:
     print("\n¡Lo siento! Te has quedado sin disparos.")
+
+```
+
+## **Batalla Naval Bonus 1**
+[Batalla Naval Sin Bonus (replit)](https://replit.com/@juanpanpanyz/PythonBatallaNavalSinBonus)
+```python
 
 ```
