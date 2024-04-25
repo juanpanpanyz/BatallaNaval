@@ -1,6 +1,6 @@
 # Guia  de Programación de Python  NO SE COPIEN VAGOS
 
-### **Alumno:** Juan Baader
+### **Alumnos:** Juan Baader, Sofia Arisi, Juli Kogan
 
 ### **Año:** 2024
 
@@ -8,7 +8,7 @@
 
 ### **Profesor/a** Ignacio Pardo
 
-[Link a Github](https://github.com/juanpanpanyz/python)
+[Link a Github](https://github.com/juanpanpanyz/BatallaNaval)
 
 [Guia](https://github.com/IgnacioPardo/Tecnologias_Exponenciales_2024/tree/main/Ejercicios#ejercicio-1](url))
 
