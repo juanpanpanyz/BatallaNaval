@@ -140,3 +140,9 @@ else:
     print("\n¡Lo siento! Te has quedado sin disparos.")
 
 ```
+
+## **Batalla Naval Bonus 2**
+[Batalla Naval Sin Bonus (replit)](https://replit.com/@juanpanpanyz/PythonBatallaNavalSBonus2)
+```python
+
+```
